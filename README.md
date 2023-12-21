@@ -11,8 +11,7 @@ Welcome to my GitHub profile! Here, you'll find an assortment of projects that s
 ### 🌐 Connect with Me
 Let's connect and collaborate on interesting projects! You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/francescaforbicini/)
-- [Twitter](your-twitter-profile-url)
-- [Website/Blog](your-website-url)
+
 
 ### 📚 Education
 - Bachelor in Computer Science and Engineering at [Politecnico of Milan](https://www.polimi.it/) 
