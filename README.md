@@ -1,5 +1,4 @@
 ### Hi there, I'm Francesca 👋
-## Computer Science and Engineering Graduate
 
 Welcome to my GitHub profile! Here, you'll find an assortment of projects that showcase my skills and interests.
 
