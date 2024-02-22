@@ -3,10 +3,11 @@
 Welcome to my GitHub profile! Here, you'll find an assortment of projects that showcase my skills and interests.
 
 ### 🔧 Technologies & Tools
-- Programming Languages: Python, Java, C++, JavaScript, Flutter
+- Programming Languages: Python, Java, C++, JavaScript, Dart
 - Web Development: HTML, CSS
 - Databases: MySQL
 - Machine Learning: TensorFlow, scikit-learn
+- Tools: JetBrains, Flutter, Vulkan, VS code, Eclipse
 
 ### 🌐 Connect with Me
 Let's connect and collaborate on interesting projects! You can find me on:
